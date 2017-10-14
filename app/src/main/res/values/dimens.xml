@@ -1,0 +1,10 @@
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="width_dimen">128dp</dimen>
+    <dimen name="text_dimen">20dp</dimen>
+    <dimen name="space">16dp</dimen>
+    <dimen name="icon">24dp</dimen>
+    <dimen name="space_text">66dp</dimen>
+    <dimen name="title">22dp</dimen>
+</resources>

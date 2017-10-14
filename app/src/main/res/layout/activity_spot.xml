@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--I have replaced the click of the Media Player with an activity,
+    to make a detailed detail of the option.
+    It is a vertical LinearLayout with an ImageView and 2 TextView,
+    and a return button. In the land we have only left the image and the button.-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_color"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:scaleType="center"
+        android:src="@drawable/sport0" />
+
+
+    <TextView
+        android:id="@+id/text"
+        style="@style/description_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:text="@string/art0" />
+
+    <TextView
+        android:id="@+id/text2"
+        style="@style/description_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingTop="8dp"
+        android:text="@string/text_art0" />
+
+    <Button
+        android:id="@+id/button_false"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="@dimen/space"
+        android:background="@drawable/button"
+        android:onClick="back"
+        android:text="BACK" />
+
+
+</LinearLayout>

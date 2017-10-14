@@ -1,0 +1,165 @@
+<resources>
+
+    <!-- General data -->
+
+    <string name="app_name">Tour Guide</string>
+
+    <string name="app_name2">Palencia Tour Guide</string>
+
+    <string name="category_eat">Eat and Sleep</string>
+
+
+    <string name="category_leisure">Leisure Entertainment</string>
+
+
+    <string name="category_art">Art and Museums</string>
+
+
+    <string name="category_sport">Sport and Nature</string>
+
+    <!-- Art and Museum -->
+
+    <string name="art0">Cave of the French</string>
+    <string name="text_art0">The dream of every speleogist</string>
+
+    <string name="art1">Puentecillas</string>
+    <string name="text_art1">Roman Bridge</string>
+
+    <string name="art2">Saint Michael\'s Tower</string>
+    <string name="text_art2">Here The Cid Campeador married</string>
+
+    <string name="art3">The Unknown Beauty</string>
+    <string name="text_art3">Cathedral</string>
+
+    <string name="art4">Christ\'s Otero</string>
+    <string name="text_art4">The third largest statue in the world</string>
+
+    <string name="art5">Monument to the Teacher</string>
+    <string name="text_art5">Tribute in homage to educators</string>
+
+    <string name="art6">Main Street</string>
+    <string name="text_art6">Picturesque street with pillars and arcades</string>
+
+    <string name="art7">Diputación</string>
+    <string name="text_art7">Government of the Province</string>
+
+    <string name="art8">San Andrés del Arroyo</string>
+    <string name="text_art8">Cistercian Cloister</string>
+
+    <string name="art9">Casa del Cordón</string>
+    <string name="text_art9">Archeological Museum</string>
+
+    <string name="art10">Crypt of San Antolín</string>
+    <string name="text_art10">Ancient Roman catacombs under the cathedral</string>
+
+    <string name="art11">School Villandrando</string>
+    <string name="text_art11">Venetian Gothic facade</string>
+
+    <string name="art12">Church of San Martín de Fromista</string>
+    <string name="text_art12">In the Saint James\'s Way is the oldest church of the Romanesque</string>
+
+    <string name="art13">Ampudia\'s Castle</string>
+    <string name="text_art13">Castle in perfect state of conservation enable for tourism</string>
+
+    <!-- Sport and Nature -->
+
+    <string name="sport0">Campo de la Juventud</string>
+    <string name="text_sport0">High-performance sport center</string>
+
+    <string name="sport1">Rocódromo</string>
+    <string name="text_sport1">Rock Climbing</string>
+
+    <string name="sport2">Huerta del Guadian\'s Park</string>
+    <string name="text_sport2">Garden that shelters sculptures</string>
+
+    <string name="sport3">Jardinillos</string>
+    <string name="text_sport3">Green zone in the center of the city</string>
+
+    <string name="sport4">Orchard of the Bishop\'s Park</string>
+    <string name="text_sport4">For romantic walks along the river</string>
+
+    <string name="sport5">Sport Facilities</string>
+    <string name="text_sport5">Throughout the city there are tennis court</string>
+
+    <string name="sport6">Eras de Santa Maria</string>
+    <string name="text_sport6">Indoor Lap Pool</string>
+
+    <string name="sport7">Isla de las dos Aguas\'s Park</string>
+    <string name="text_sport7">Ideal for outdoor sport</string>
+
+
+    <!-- Leisure and Entertainment -->
+
+    <string name="leisure0">Nueva Balastera</string>
+    <string name="text_leisure0">Football Stadium(soccer)</string>
+
+    <string name="leisure1">Plaza Mayor</string>
+    <string name="text_leisure1">Town Hall Square</string>
+
+    <string name="leisure2">Ortega\'s Cinema</string>
+    <string name="text_leisure2">Multiplex that projects different films</string>
+
+    <string name="leisure3">Medieval Market</string>
+    <string name="text_leisure3">Immersion in the Middle Ages twice a year</string>
+
+    <string name="leisure4">Teatro Principal</string>
+    <string name="text_leisure4">Theater</string>
+
+    <string name="leisure5">Plaza de Toros</string>
+    <string name="text_leisure5">Bullring</string>
+
+    <string name="leisure6">Quasar</string>
+    <string name="text_leisure6">Discotheque</string>
+
+    <string name="leisure7">Fiestas de San Antolín</string>
+    <string name="text_leisure7">Local party held on September 2nd</string>
+
+    <string name="leisure8">Easter</string>
+    <string name="text_leisure8">Processions that represent the death and resurrection of Jesus Christ</string>
+
+    <string name="leisure9">Dinner Show</string>
+    <string name="text_leisure9">The most suitable place for bachelor parties</string>
+
+    <string name="leisure10">El Pan y el Quesillo</string>
+    <string name="text_leisure10">Stoning(fooding) of the patron saint</string>
+
+    <!-- Eat and Sleep -->
+
+    <string name="eat0">PePe\'s</string>
+    <string name="text_eat0">Romantic Restaurant</string>
+
+    <string name="eat1">Diana Palace</string>
+    <string name="text_eat1">Hotel ****</string>
+
+    <string name="eat2">Europa Centro</string>
+    <string name="text_eat2">Hotel *****</string>
+
+    <string name="eat3">Los Candiles</string>
+    <string name="text_eat3">The best value for money Restaurant</string>
+
+    <string name="eat4">Hotel Plaza Jardinillos</string>
+    <string name="text_eat4">Hotel **/ Restaurant</string>
+
+    <string name="eat5">Alba de los Cardaños</string>
+    <string name="text_eat5">Rural Tourism</string>
+
+    <string name="eat6">Taberna Plaza Mayor</string>
+    <string name="text_eat6">Typical bar with terrace</string>
+
+    <string name="eat7">Maño</string>
+    <string name="text_eat7">Tapas Bar</string>
+
+    <string name="eat8">Hotel AC Palencia</string>
+    <string name="text_eat8">In the tranquility of the outskirts Hotel ****</string>
+
+    <string name="eat9">Las Vacas</string>
+    <string name="text_eat9">Rural Hotel in the mountain</string>
+
+    <string name="eat10">Hotel Castilla Vieja</string>
+    <string name="text_eat10">DownTown Hotel ***</string>
+
+    <string name="eat11">Casa Lucio</string>
+    <string name="text_eat11">Business Dinner</string>
+
+
+</resources>
